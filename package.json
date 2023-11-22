@@ -1,0 +1,13 @@
+{
+  "name": "week-4-test-example",
+  "description": "An example of application showing how to write test framework using jest",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.10"
+  }
+}
